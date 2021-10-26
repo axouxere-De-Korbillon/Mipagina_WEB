@@ -1,2 +1,2 @@
 # Mipagina_1
-pagina_ejemplo
+pagina_ejemplo. Es la primera pagina de ejemplo 
